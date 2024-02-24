@@ -1,0 +1,43 @@
+body{
+  transition: 0.5s;
+}
+button{
+  padding: 10px;
+  margin-left: 5px;
+}
+.red{
+  background-color: red;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.blue{
+  background-color: blue;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.green{
+  background-color: green;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.yellow{
+  background-color: yellow;
+  color: #000;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.black{
+  background-color: black;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+.white{
+  background-color: white;
+  color: #000;
+  border: 1px solid black;
+  border-radius: 10px;
+}
